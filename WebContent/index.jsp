@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-hello git
+hello git,hello localhost
 </body>
 </html>
