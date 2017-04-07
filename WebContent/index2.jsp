@@ -18,6 +18,10 @@ hello git hello git hello git
 88888888888888888
 99999999999999
 10101010101010
+<<<<<<< HEAD
 bbbbbbbbbbbbbbb
+=======
+oooooooooooooooooooo
+>>>>>>> branch 'master' of git@github.com:huanglong1218/T1.git
 </body>
 </html>
